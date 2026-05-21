@@ -1,5 +1,0 @@
-streamlit
-numpy
-plotly==6.7.0
-pandas==3.0.3
-requests==2.34.1
